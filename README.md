@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design Preview](./design/desktop-preview.jpg)
+![Design Preview](./images/image-qr-code.png)
 
 ### Links
 
