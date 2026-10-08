@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/qr-code-component)
+- Solution URL: [GitHub Repository](https://github.com/mrws4589-code/qr-code-component)
 - Live Site URL: [Netlify Live Demo](https://your-site-name.netlify.app)
 
 ## My Process
