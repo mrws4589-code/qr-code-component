@@ -6,12 +6,13 @@
 
 body {
 	font-family: Outfit, sans-serif;
-	background-color: hsl(212, 45%, 89%);
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	position: relative;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100dvh;
+    position: relative;
+    padding-bottom: 50px;
 }
 
 .card {
@@ -55,6 +56,6 @@ body {
 footer {
 	position: absolute;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
     bottom: 1rem;
 }
