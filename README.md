@@ -1,52 +1,48 @@
-# Frontend Mentor - QR Code Component Solution
+# Frontend Mentor - QR code component solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-i92MgR2Uwh). Building this project allowed me to reinforce my skills in responsive layout design, CSS reset practices, and modern alignment techniques.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-i9b11K15I). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of Contents
+## Table of contents
 
 - [Overview](#overview)
-  - [The Challenge](#the-challenge)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My Process](#my-process)
-  - [Built With](#built-with)
-  - [What I Learned](#what-i-learned)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
 
-### The Challenge
+### The challenge
 
 Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
-- Experience smooth hover feedback on the card
+
+### Screenshot
+
+![Design Preview](./design/desktop-preview.jpg)
 
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/mrws4589-code/qr-code-component)
-- Live Site URL: [Netlify Live Demo](https://your-site-name.netlify.app)
+- Live Site URL: [GitHub Pages Demo](https://mrws4589-code.github.io/qr-code-component/)
 
-## My Process
+## My process
 
-### Built With
+### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties & Google Fonts (Outfit)
-- Flexbox for centering and structured layout
-- Mobile-first, fluid responsive design (`max-width` and relative units)
+- CSS custom properties
+- Flexbox
 
-### What I Learned
+### What I learned
 
-In this challenge, I practiced writing clean, predictable layout structures. A key concept I focused on was applying `box-sizing: border-box` to manage card dimensions accurately without layout shifts caused by padding.
+In this challenge, I practiced centering layout elements using Flexbox, managing border-radius and box-shadow styling, and publishing a web project using GitHub Pages.
 
-```css
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+## Author
 
-.card {
-  max-width: 320px;
-  width: 90%;
-  padding: 15px;
-}
+- **Name:** Amr
+- **Frontend Mentor:** [@mrws4589-code](https://www.frontendmentor.io/profile/mrws4589-code)
+- **GitHub:** [@mrws4589-code](https://github.com/mrws4589-code)
