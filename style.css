@@ -10,13 +10,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
     min-height: 100dvh;
     position: relative;
+    padding-bottom: 45px;
 }
 
 .card {
 	max-width: 320px;
- 	width: 90%;
+ 	width: 88%;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
     border-radius: 15px;
@@ -27,7 +29,6 @@ body {
     text-align: center;
     box-shadow: 0 12px 30px hsl(212deg 21% 77%);
     transition: 0.3s;
-    margin-bottom: 60px;
 }
 
 .card:hover {
@@ -54,8 +55,8 @@ body {
 }
 
 footer {
+	width: 100%;
 	position: absolute;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    left: 0;
     bottom: 1rem;
 }
