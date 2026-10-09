@@ -51,12 +51,12 @@ body {
 .card p {
 	color: hsl(216, 15%, 48%);
     font-size: 15px;
-    margin: 0 15px 20px;
+    margin: 0 15px 17px;
 }
 
 footer {
 	width: 100%;
 	position: absolute;
     left: 0;
-    bottom: 1rem;
+    bottom: 0.8rem;
 }
